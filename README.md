@@ -1,2 +1,2 @@
 # Motion-Preformance-Scientist
-Biomechanics Exercise
+Biomechanics Exercise focused on plotting Kinematic Sequencing and Finding statistical differences
